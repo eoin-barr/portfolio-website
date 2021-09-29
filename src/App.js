@@ -1,7 +1,16 @@
 import React from 'react'
+import { BrowserRouter } from 'react-router-dom'
+import NavigationBar from './components/NavigationBar'
+import Home from './components/Home'
+
 
 function App() {
-  return <h1>Hello World</h1>
+  return (
+    <BrowserRouter>
+      <NavigationBar />
+      <Home />
+    </BrowserRouter>
+  )
 }
 
 export default App
