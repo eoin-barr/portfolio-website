@@ -1,9 +1,10 @@
-.right{
-  justify-content: flex-end!important;
+div.right.container{
+  justify-content: flex-end;
 }
 
 .gif-container{
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: black;
@@ -13,4 +14,9 @@
 
 a.nav-link{
   color: white;
+}
+
+.title-text{
+  color: white;
+  text-align: center;
 }
