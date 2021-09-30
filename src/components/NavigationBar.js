@@ -8,8 +8,8 @@ function NavigationBar() {
       </Container>
       <Container className="right">
         <Nav className="me">
-          <Nav.Link href="#home">Projects</Nav.Link>
-          <Nav.Link href="#features">Contact</Nav.Link>
+          <Nav.Link className="no-col-change" href="#projects">Projects</Nav.Link>
+          <Nav.Link className="no-col-change" href="#contact">Contact</Nav.Link>
         </Nav>
       </Container>
     </Navbar>
