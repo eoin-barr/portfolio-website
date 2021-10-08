@@ -21,11 +21,11 @@ a.nav-link{
   text-align: center;
 }
 
-a.no-col-change:hover{
-  color: grey;
+a.no-col-change{
+  transition: all 0.3s ease;
 }
 
-// i.white-bg{
-//   color: white;
-//   margin-bottom: 20vh;
-// }
+a.no-col-change:hover{
+  color: rgb(169, 169, 169);
+  transition: all 0.3s ease;
+}

@@ -12,9 +12,11 @@ html{
     display: flex;
     align-items: center;
     justify-content: center;
+    transition: all 0.3s ease;
   }
   .proj-img-cont:hover{
     transform: scale(1.01);
+    transition: all 0.3s ease;
   }
   .proj-img{
     border-radius: 10px;
@@ -40,9 +42,11 @@ html{
   .icons{
     margin: 10px 15px;
     color: white;
+    transition: all 0.3s ease;
   }
   .icons:hover{
     transform: scale(1.1);
+    transition: all 0.3s ease;
   }
   .no-m-para{
     margin: 5px 0 0 0;

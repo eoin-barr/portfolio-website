@@ -8,9 +8,11 @@
   .icons-2{
     padding: 20px 10px;
     color: white;
+    transition: all 0.3s ease;
   }
   .icons-2:hover{
-    color: grey;
+    transform: scale(1.05);
+    transition: all 0.3s ease;
   }
 
 }
