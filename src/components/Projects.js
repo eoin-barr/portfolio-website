@@ -4,7 +4,7 @@ function Projects() {
     <>
       <div id="projects" className="flexi-row pa-4">
         <a target="_blank" rel="noreferrer" href="#" alt="Sorting Visualizer" className="proj-img-cont">
-          <img data-aos="fade-right" data-aos-duration="1500" className="proj-img" src="https://res.cloudinary.com/dk0r9bcxy/image/upload/v1634682639/portfolio-website/sv4_clclln.png" />
+          <img data-aos="fade-right" data-aos-duration="1500" className="proj-img" src="https://res.cloudinary.com/dk0r9bcxy/image/upload/v1634765375/portfolio-website/sv9_grwcns.png" />
         </a>
         <div data-aos="fade-left" data-aos-duration="1500" className="proj-desc-cont">
           <h2 className="text-align-center">Sorting Visualizer</h2>
