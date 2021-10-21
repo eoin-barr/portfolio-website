@@ -3,14 +3,14 @@ function Projects() {
   return (
     <>
       <div id="projects" className="flexi-row pa-4">
-        <a target="_blank" rel="noreferrer" href="#" alt="Sorting Visualizer" className="proj-img-cont">
+        <a target="_blank" rel="noreferrer" href="https://sorting-visualizer-project-portfolio.netlify.app/" alt="Sorting Visualizer" className="proj-img-cont">
           <img data-aos="fade-right" data-aos-duration="1500" className="proj-img" src="https://res.cloudinary.com/dk0r9bcxy/image/upload/v1634765375/portfolio-website/sv9_grwcns.png" />
         </a>
         <div data-aos="fade-left" data-aos-duration="1500" className="proj-desc-cont">
           <h2 className="text-align-center">Sorting Visualizer</h2>
           <p className="text-align-center para">Sort an array using Bubble, Insertion, Quick,<br /> Selection or Merge sort.<p className="no-m-para"></p></p>
           <div className="flexi-row-2">
-            <a className="icons" target="_blank" rel="noreferrer" href="https://painterest.netlify.app/" alt="Painterest"><i className="fas fa-link fa-2x"></i></a>
+            <a className="icons" target="_blank" rel="noreferrer" href="https://sorting-visualizer-project-portfolio.netlify.app/" alt="Sorting Visualizer"><i className="fas fa-link fa-2x"></i></a>
             <a className="icons" target="_blank" rel="noreferrer" href="https://github.com/eoin-barr/sorting-visualizer" alt="Github repo"><i className="fab fa-github fa-2x"></i></a>
           </div>
         </div>
